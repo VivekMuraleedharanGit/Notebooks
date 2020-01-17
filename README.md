@@ -1,2 +1,2 @@
 # Notebooks  
-Ipython noteboks  from my data science tutorials
+Ipython noteboks  from my data science learnings 
